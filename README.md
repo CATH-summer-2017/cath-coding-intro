@@ -74,7 +74,7 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
 ### 5. Organisation
 
  1. where's your data? tests? libraries? scripts?
- 	* A
+ 	* [Constructing python modules (Official doc)](https://docs.python.org/2/tutorial/modules.html#packages)
  1. documentation
 	 * Document at different levels. 
  1. why? where? who is it for? (hint: *you in X months time*)
