@@ -91,11 +91,9 @@ https://github.com/seanfisk/python-project-template
  1. how to encourage good documentation?
 	* A
  1. Deployment:
-	https://gist.github.com/sloria/7001839
-
-	https://www.python.org/dev/peps/pep-0008/
-
-	https://github.com/seanfisk/python-project-template
+	* https://gist.github.com/sloria/7001839
+	* https://www.python.org/dev/peps/pep-0008/
+	* https://github.com/seanfisk/python-project-template
 
   
 ### 6. Runtime debugger
