@@ -59,6 +59,11 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  	* A
  1. what is benchmarking? how is it different to testing?
  	* Benchmark is concerned with performance.
+https://gist.github.com/sloria/7001839
+
+https://www.python.org/dev/peps/pep-0008/
+
+https://github.com/seanfisk/python-project-template
 
 ### 4. DRY
 
@@ -82,9 +87,16 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. different types of documentation
 	* A
  1. considering maintenance
-	* A
+	* 
  1. how to encourage good documentation?
 	* A
+ 1. Deployment:
+	https://gist.github.com/sloria/7001839
+
+	https://www.python.org/dev/peps/pep-0008/
+
+	https://github.com/seanfisk/python-project-template
+
   
 ### 6. Runtime debugger
 
