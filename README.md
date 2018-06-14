@@ -23,20 +23,20 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
 ### 1. How to get help
 
  1. What does a bad question look like?
-    **Answer:** my _X_ is not working, what do I do?
+    * **Answer:** my _X_ is not working, what do I do?
  1. What does a good question look like?
-    **Answer:** my _X_ does _Y_ instead of _Z_. How do I fix it?
+    * **Answer:** my _X_ does _Y_ instead of _Z_. How do I fix it?
  1. Typical sources of information. 
- **Answer:** [Google](https://www.google.co.uk/?gws_rd=ssl), [stack overflow](https://stackoverflow.com/), dedicated subreddit, known experts on the subject
+	*  **Answer:** [Google](https://www.google.co.uk/?gws_rd=ssl), [stack overflow](https://stackoverflow.com/), dedicated subreddit, known experts on the subject
  
 ### 2. Version control
 
  1. why is this important?
- **Answer:** being able to always have a working/presentable version of a code/thing is crucial. Tracking bugs is easier since you can check when X stopped working.
+ 	* **Answer:** being able to always have a working/presentable version of a code/thing is crucial. Tracking bugs is easier since you can check when X stopped working.
  1. when should it be used?
- **Answer:** if there is a change in the code that affect the result in any noticeable way/if it took you longer than 5 minutes to make the change.
+ 	* **Answer:** if there is a change in the code that affect the result in any noticeable way/if it took you longer than 5 minutes to make the change.
  1. what does a [basic git flow](https://www.atlassian.com/git/tutorials/comparing-workflows) look like? (and [more complex flows](http://nvie.com/posts/a-successful-git-branching-model/))
- 	* 
+ 	*  A:
  1. what does a "good" commit look like?
  	* [Tips for good commit msgs.](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message) 
  1. have a go (fork this repo, fill in your own answers)
@@ -54,10 +54,16 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  	* A
  1. what is TDD? (key aspects? why is it useful?)
 	* [TDD with Python](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) 
+	* [Unittest from Python 2 Official](https://docs.python.org/2/library/unittest.html)
  1. what is CI? (key aspects? why is it useful?)
  	* A
  1. what is benchmarking? how is it different to testing?
  	* Benchmark is concerned with performance.
+https://gist.github.com/sloria/7001839
+
+https://www.python.org/dev/peps/pep-0008/
+
+https://github.com/seanfisk/python-project-template
 
 ### 4. DRY
 
@@ -73,7 +79,7 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
 ### 5. Organisation
 
  1. where's your data? tests? libraries? scripts?
- 	* A
+ 	* [Constructing python modules (Official doc)](https://docs.python.org/2/tutorial/modules.html#packages)
  1. documentation
 	 * Document at different levels. 
  1. why? where? who is it for? (hint: *you in X months time*)
@@ -81,9 +87,14 @@ Feel free to copy and paste quotes from elsewhere (with links to the original so
  1. different types of documentation
 	* A
  1. considering maintenance
-	* A
+	* 
  1. how to encourage good documentation?
 	* A
+ 1. Deployment:
+	* https://gist.github.com/sloria/7001839
+	* https://www.python.org/dev/peps/pep-0008/
+	* https://github.com/seanfisk/python-project-template
+
   
 ### 6. Runtime debugger
 
